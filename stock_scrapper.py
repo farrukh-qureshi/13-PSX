@@ -251,7 +251,9 @@ def scrape_company_data(symbol):
 
 if __name__ == "__main__":
     try:
-        scrape_company_data("MARI")
+        symbol = input("Enter stock symbol (default: MARI): ").strip() or "MARI"
+        symbol = symbol.upper()
+        scrape_company_data(symbol)
     except Exception as e:
         logging.error(f"Script failed: {str(e)}")
         logging.debug(traceback.format_exc())
