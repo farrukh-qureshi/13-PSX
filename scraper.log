@@ -1,0 +1,90 @@
+2024-12-31 00:27:47,620 - INFO - Starting to scrape data for company symbol: EFERT
+2024-12-31 00:27:47,622 - INFO - Requesting company page: https://sarmaaya.pk/psx/company/EFERT
+2024-12-31 00:27:53,179 - INFO - Starting to scrape company snapshot
+2024-12-31 00:27:53,391 - INFO - Starting to scrape financial data from https://sarmaaya.pk/ajax/widgets/all_financials.php?symbol=EFERT
+2024-12-31 00:27:56,588 - INFO - Processing tab: nav-statement
+2024-12-31 00:27:56,604 - INFO - Processing tab: nav-balance
+2024-12-31 00:27:56,621 - INFO - Processing tab: nav-cash
+2024-12-31 00:27:56,642 - INFO - Processing tab: nav-ratioFinance
+2024-12-31 00:27:56,663 - INFO - Processing tab: nav-equity
+2024-12-31 00:27:56,688 - INFO - Starting to scrape payout data from https://sarmaaya.pk/ajax/widgets/company_payouts.php?symbol=EFERT
+2024-12-31 00:27:58,585 - INFO - Data scraping completed successfully!
+2024-12-31 00:28:50,292 - INFO - Starting to scrape data for company symbol: PSO
+2024-12-31 00:28:50,295 - INFO - Requesting company page: https://sarmaaya.pk/psx/company/PSO
+2024-12-31 00:28:55,772 - INFO - Starting to scrape company snapshot
+2024-12-31 00:28:55,957 - INFO - Starting to scrape financial data from https://sarmaaya.pk/ajax/widgets/all_financials.php?symbol=PSO
+2024-12-31 00:28:57,796 - INFO - Processing tab: nav-statement
+2024-12-31 00:28:57,798 - WARNING - Could not convert value '3.39 T' to float, returning 0
+2024-12-31 00:28:57,799 - WARNING - Could not convert value '2.45 T' to float, returning 0
+2024-12-31 00:28:57,800 - WARNING - Could not convert value '1.2 T' to float, returning 0
+2024-12-31 00:28:57,801 - WARNING - Could not convert value '1.11 T' to float, returning 0
+2024-12-31 00:28:57,802 - WARNING - Could not convert value '1.15 T' to float, returning 0
+2024-12-31 00:28:57,803 - WARNING - Could not convert value '1.06 T' to float, returning 0
+2024-12-31 00:28:57,805 - WARNING - Could not convert value '3.32 T' to float, returning 0
+2024-12-31 00:28:57,806 - WARNING - Could not convert value '2.29 T' to float, returning 0
+2024-12-31 00:28:57,807 - WARNING - Could not convert value '1.15 T' to float, returning 0
+2024-12-31 00:28:57,809 - WARNING - Could not convert value '1.1 T' to float, returning 0
+2024-12-31 00:28:57,809 - WARNING - Could not convert value '1.12 T' to float, returning 0
+2024-12-31 00:28:57,811 - WARNING - Could not convert value '1.02 T' to float, returning 0
+2024-12-31 00:28:57,822 - INFO - Processing tab: nav-balance
+2024-12-31 00:28:57,837 - INFO - Processing tab: nav-cash
+2024-12-31 00:28:57,851 - INFO - Processing tab: nav-ratioFinance
+2024-12-31 00:28:57,866 - INFO - Processing tab: nav-equity
+2024-12-31 00:28:57,883 - INFO - Starting to scrape payout data from https://sarmaaya.pk/ajax/widgets/company_payouts.php?symbol=PSO
+2024-12-31 00:29:00,342 - INFO - Data scraping completed successfully!
+2024-12-31 00:32:20,332 - INFO - Starting to scrape data for company symbol: MARI
+2024-12-31 00:32:20,335 - INFO - Requesting company page: https://sarmaaya.pk/psx/company/MARI
+2024-12-31 00:32:24,552 - INFO - Starting to scrape company snapshot
+2024-12-31 00:32:24,639 - INFO - Starting to scrape financial data from https://sarmaaya.pk/ajax/widgets/all_financials.php?symbol=MARI
+2024-12-31 00:32:28,641 - INFO - Processing tab: nav-statement
+2024-12-31 00:32:28,649 - INFO - Processing tab: nav-balance
+2024-12-31 00:32:28,662 - INFO - Processing tab: nav-cash
+2024-12-31 00:32:28,670 - INFO - Processing tab: nav-ratioFinance
+2024-12-31 00:32:28,680 - INFO - Processing tab: nav-equity
+2024-12-31 00:32:28,694 - INFO - Starting to scrape payout data from https://sarmaaya.pk/ajax/widgets/company_payouts.php?symbol=MARI
+2024-12-31 00:32:30,656 - INFO - Data scraping completed successfully!
+2024-12-31 00:33:37,903 - INFO - Starting to scrape data for company symbol: FFL
+2024-12-31 00:33:37,905 - INFO - Requesting company page: https://sarmaaya.pk/psx/company/FFL
+2024-12-31 00:33:43,671 - INFO - Starting to scrape company snapshot
+2024-12-31 00:33:43,877 - INFO - Starting to scrape financial data from https://sarmaaya.pk/ajax/widgets/all_financials.php?symbol=FFL
+2024-12-31 00:33:46,339 - INFO - Processing tab: nav-statement
+2024-12-31 00:33:46,352 - INFO - Processing tab: nav-balance
+2024-12-31 00:33:46,364 - INFO - Processing tab: nav-cash
+2024-12-31 00:33:46,373 - INFO - Processing tab: nav-ratioFinance
+2024-12-31 00:33:46,391 - INFO - Processing tab: nav-equity
+2024-12-31 00:33:46,409 - INFO - Starting to scrape payout data from https://sarmaaya.pk/ajax/widgets/company_payouts.php?symbol=FFL
+2024-12-31 00:33:48,256 - WARNING - Payout table not found
+2024-12-31 00:33:48,260 - INFO - Data scraping completed successfully!
+2024-12-31 00:34:04,520 - INFO - Starting to scrape data for company symbol: FFC
+2024-12-31 00:34:04,522 - INFO - Requesting company page: https://sarmaaya.pk/psx/company/FFC
+2024-12-31 00:34:08,353 - INFO - Starting to scrape company snapshot
+2024-12-31 00:34:08,425 - INFO - Starting to scrape financial data from https://sarmaaya.pk/ajax/widgets/all_financials.php?symbol=FFC
+2024-12-31 00:34:10,415 - INFO - Processing tab: nav-statement
+2024-12-31 00:34:10,424 - INFO - Processing tab: nav-balance
+2024-12-31 00:34:10,451 - INFO - Processing tab: nav-cash
+2024-12-31 00:34:10,465 - INFO - Processing tab: nav-ratioFinance
+2024-12-31 00:34:10,480 - INFO - Processing tab: nav-equity
+2024-12-31 00:34:10,494 - INFO - Starting to scrape payout data from https://sarmaaya.pk/ajax/widgets/company_payouts.php?symbol=FFC
+2024-12-31 00:34:12,547 - INFO - Data scraping completed successfully!
+2024-12-31 00:35:05,415 - INFO - Starting to scrape data for company symbol: THCCL
+2024-12-31 00:35:05,417 - INFO - Requesting company page: https://sarmaaya.pk/psx/company/THCCL
+2024-12-31 00:35:10,190 - INFO - Starting to scrape company snapshot
+2024-12-31 00:35:10,386 - INFO - Starting to scrape financial data from https://sarmaaya.pk/ajax/widgets/all_financials.php?symbol=THCCL
+2024-12-31 00:35:12,942 - INFO - Processing tab: nav-statement
+2024-12-31 00:35:12,956 - INFO - Processing tab: nav-balance
+2024-12-31 00:35:12,977 - INFO - Processing tab: nav-cash
+2024-12-31 00:35:12,994 - INFO - Processing tab: nav-ratioFinance
+2024-12-31 00:35:13,011 - INFO - Processing tab: nav-equity
+2024-12-31 00:35:13,031 - INFO - Starting to scrape payout data from https://sarmaaya.pk/ajax/widgets/company_payouts.php?symbol=THCCL
+2024-12-31 00:35:14,776 - INFO - Data scraping completed successfully!
+2024-12-31 00:36:01,399 - INFO - Starting to scrape data for company symbol: ILP
+2024-12-31 00:36:01,400 - INFO - Requesting company page: https://sarmaaya.pk/psx/company/ILP
+2024-12-31 00:36:07,615 - INFO - Starting to scrape company snapshot
+2024-12-31 00:36:07,801 - INFO - Starting to scrape financial data from https://sarmaaya.pk/ajax/widgets/all_financials.php?symbol=ILP
+2024-12-31 00:36:10,486 - INFO - Processing tab: nav-statement
+2024-12-31 00:36:10,500 - INFO - Processing tab: nav-balance
+2024-12-31 00:36:10,521 - INFO - Processing tab: nav-cash
+2024-12-31 00:36:10,534 - INFO - Processing tab: nav-ratioFinance
+2024-12-31 00:36:10,554 - INFO - Processing tab: nav-equity
+2024-12-31 00:36:10,572 - INFO - Starting to scrape payout data from https://sarmaaya.pk/ajax/widgets/company_payouts.php?symbol=ILP
+2024-12-31 00:36:13,178 - INFO - Data scraping completed successfully!
